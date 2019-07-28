@@ -1,0 +1,2 @@
+1.The types of linkages are:?A - Internal linkage and External linkage  B - Internal linkage, External linkage and None linkage  C - Internal linkage and None linkage  D - External linkage and None linkage
+2. Which of the following is a logical OR operator? A - & B - && C - || D - None of the above

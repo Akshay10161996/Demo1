@@ -1,0 +1,1 @@
+1.Which of the followings is/are automatically added to every class, if we do not write our own.?A-Copy Constructor B-Assignment Operator C-A constructor without any parameter D-All of the Above

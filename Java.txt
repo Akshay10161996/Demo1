@@ -1,0 +1,8 @@
+1.Which of the following is not a keyword in java? A - static	B - Boolean	C - void	D - private
+2.What is the size of long variable? A - 8 bit	B - 16 bit	C - 32 bit	D - 64 bit
+3.What is the default value of long variable? A - 0	B - 0.0	     C - 0L		D - not defined
+4.A class always has a default constructor? A-True	B-False
+5.Dynamic binding uses which information for binding? A - type.		B - object.	C - Both of the above.	D - None of the above.
+6.What happens when thread's yield() method is called? A - Thread returns to the ready state.	B - Thread returns to the waiting state.	C - Thread starts running.	D - None of the above.
+7.Can constructor be inherited?	A - True.	B - False.
+8.Which of the following is a thread safe? A - StringBuilder	B - StringBuffer	C - Both of the above	D - none of the above
